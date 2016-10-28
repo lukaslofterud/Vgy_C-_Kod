@@ -16,7 +16,7 @@ namespace Slump
             for (int i = 0; i < 10; i++)
             {
                 int tal = randomerare.Next(20) + 1;
-                Console.Write(tal + "  ");
+                Console.Write(tal + "  "); 
             }
 
         }
